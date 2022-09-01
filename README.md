@@ -10,3 +10,5 @@ Elabora los programas indicados en el concurso de OmegaUp.
 
 
 >[Link F](https://github.com/Taigach080/Omega-Up/pull/4)
+
+G
