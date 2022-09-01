@@ -3,7 +3,7 @@
 ### Yara Rojas Armenta
 
 
->[Link A/B](https://github.com/Taigach080/Omega-Up/pull/1#issue-1358199851) `#f03c15`
+>[Link A/B](https://github.com/Taigach080/Omega-Up/pull/1#issue-1358199851) 
 
 >[Link C](https://github.com/Taigach080/Omega-Up/pull/2#issue-1358239944)
 
